@@ -53,7 +53,8 @@
 
         <button class="w-100 btn btn-lg btn-primary" type="submit">Ingresar</button>
         <div id="register">
-            <a href="#">Registrarse</a>
+           <a href="JSP/Registro.jsp/">Registrarse</a>
+         
         </div>
         <p class="mt-3 mb-3 text-muted">Todos los Derechos Reservados -Johan_varon
             <!-- <%=displayDate()%> -->
